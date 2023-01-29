@@ -9,6 +9,8 @@ import json
 import os
 from subprocess import check_call
 
+# test注解
+
 SAVE_PY = False  # Save .py files (location is <dir of original>/py/)
 SAVE_HTML = True  # Save .html files (location is <dir of original>/html/)
 
